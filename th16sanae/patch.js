@@ -3,5 +3,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/Priw8/thmod/master/th16sanae/"
 	],
-	"title": "Replaces Marisa with Sanae shot from LoLK (not in menus)"
+	"title": "(TH16) Replaces Marisa with Sanae shot from LoLK (not in menus)"
 }
