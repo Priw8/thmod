@@ -1,4 +1,7 @@
 {
+	"dependencies": [
+		"nmlgc/base_tsa"
+	],
 	"id": "th14sanae",
 	"servers": [
 		"https://raw.githubusercontent.com/Priw8/thmod/master/th14sanae/"
