@@ -7,6 +7,7 @@
 		"th12tsuba": "(TH12) Replaces Reimu with Tsubakura from the Len'en project. Features custom dialogues, endings, as well as 2 custom shottypes (.sht modifications).",
 		"th14sanae": "(TH14) Replaces ReimuB with Sanae shot from LoLK (not in menus)",
 		"th15sakuya": "(TH15) Replaces Reisen with Sakuya (not in menus)",
+		"th16nonprac": "(TH16) Replaces spells in spell practice with nonspells - https://github.com/Priw8/thmod/blob/master/th16nonprac/README.txt",
 		"th16sanae": "(TH16) Replaces Marisa with Sanae shot from LoLK (not in menus)"
 	},
 	"servers": [
