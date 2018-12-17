@@ -6,5 +6,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/Priw8/thmod/master/th16nonprac/"
 	],
-	"title": "(TH16) Replaces spells in spell practice with nonspells - https://github.com/Priw8/thmod/blob/master/th16nonprac/README.txt"
+	"title": "(TH16) Replaces spells in spell practice with nonspells"
 }
