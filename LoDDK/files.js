@@ -16,7 +16,7 @@
 	"th15/DDCst06bs.ecl": 184113227,
 	"th15/DDCst06enm.anm": 3859315885,
 	"th15/DDCst07.ecl": 1968614647,
-	"th15/DDCst07bs.ecl": 3959333914,
+	"th15/DDCst07bs.ecl": 2883046892,
 	"th15/DDCst07enm.anm": 80491154,
 	"th15/LoLKst01.ecl": 2262954611,
 	"th15/LoLKst01bs.ecl": 3791124372,
