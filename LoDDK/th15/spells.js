@@ -1,5 +1,6 @@
 {
-	"120": "Minesweeper Sign \"Game Over\"",
-	"121": "Nuclear Sign \"Detonation\"",
-	"122": "\"Pure Minesweeper Hell\""
+	"22": "\"Festival of Deadly Luminations\"",
+	"106": "Minesweeper Sign \"Game Over\"",
+	"107": "Nuclear Sign \"Detonation\"",
+	"108": "\"Pure Minesweeper Hell\""
 }
