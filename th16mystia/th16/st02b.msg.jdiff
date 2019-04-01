@@ -1,0 +1,120 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Huh, a bird... Perfect timing!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Umm... What exactly do you mean by that?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "(also wow, that's a big knife she has.)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "You see, I haven't eaten anything since quite a while.",
+                "I'm very hungry."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "You probably noticed my knife.",
+                "That's why I'm carrying it."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "What a coincidence!",
+                "I'm actually starving too!"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Oh... Oh wait, you mean...",
+                "OH GOD STAY AWAY!"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "You've fallen right into my trap."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Finally.",
+                "After I defeat you, I'm going to have a big feast!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Agh!",
+                "Defeated by the one I was supposed to eat!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I... I think I'm safe now..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I wasted so much energy though...",
+                "If this keeps up, I'm going to collapse."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Oh, I'll gladly wait for that!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                ";)"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "NO! STAY BACK!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "I will NOT be eaten by the likes of you!"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Drop the knife on the ground!",
+                "And put your hands where I can see them!"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Alright, calm down...",
+                "Aren't you overreacting a bit?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "I didn't do anything to you, after all."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "YOU WANTED TO EAT ME!"
+            ]
+        }
+    }
+}
