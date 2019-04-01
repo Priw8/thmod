@@ -1,9 +1,9 @@
 {
 	"dependencies": [
 		"nmlgc/base_tsa",
-		"nmlgc/script_latin/",
-		"nmlgc/western_name_order/",
-		"thpatch/lang_en/"
+		"nmlgc/script_latin",
+		"nmlgc/western_name_order",
+		"thpatch/lang_en"
 	],
 	"id": "th16mystia",
 	"servers": [
