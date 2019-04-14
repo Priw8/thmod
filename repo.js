@@ -10,7 +10,8 @@
 		"th15sakuya": "(TH15) Replaces Reisen with Sakuya (not in menus)",
 		"th16mystia": "(TH16) Replaces Cirno with Mystia (not in menus yet) (April fools 2019 mod)",
 		"th16nonprac": "(TH16) Replaces spells in spell practice with nonspells",
-		"th16sanae": "(TH16) Replaces Marisa with Sanae shot from LoLK (not in menus)"
+		"th16sanae": "(TH16) Replaces Marisa with Sanae shot from LoLK (not in menus)",
+		"th16ufos": "(TH16) read README.txt from the repo for more info"
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/Priw8/thmod/master/"
