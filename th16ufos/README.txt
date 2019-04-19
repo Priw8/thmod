@@ -1,5 +1,5 @@
 (Use a text editor that supports Unix line endings to view this file. So NOT the default windows notepad)
-Undefined Fantastic Four Seasons - beta version 1.0a by Priw8
+Undefined Fantastic Four Seasons - beta version 1.0c by Priw8
 
 A patch that adds UFOs to HSiFS. Why? Because it's possible, duh.
 Though for now, it's only a beta version. Why it is technically complete, there are most likely things that can (and should) be improved.
