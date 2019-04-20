@@ -1,5 +1,5 @@
 {
-	"README.txt": 3883812740,
+	"README.txt": 370318593,
 	"patch.js": 3038686054,
 	"th16.js": 4029136070,
 	"th16/default.ecl": 2536238807,
