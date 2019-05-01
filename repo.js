@@ -12,7 +12,7 @@
 		"th16nonprac": "(TH16) Replaces spells in spell practice with nonspells",
 		"th16sanae": "(TH16) Replaces Marisa with Sanae shot from LoLK (not in menus)",
 		"th16ufos": "(TH16) read README.txt from the repo for more info",
-		"thanos": "(TH16) Randomly skips ECL instructions (50%), which results in \"corrupted\" patterns and stages."
+		"thanos": "(TH15, 16) Randomly skips ECL instructions (50%), which results in \"corrupted\" patterns and stages."
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/Priw8/thmod/master/"
