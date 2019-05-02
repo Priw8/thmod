@@ -1,6 +1,6 @@
 ﻿--- VD LoLK patch 1.0a by Priw8 ---
 You should probably use a save file that has all the upgrades unlocked.
-Sumireko's full power shottype has been modified to deal more damage (the damage in VD was quite tiny). The unfocused shot was also made homing. 
+Sumireko's full power shottype has been modified to deal more damage (the damage in VD was quite tiny). The unfocused shot was also made homing, because stage 5 is stupid without it. 
 
 - Monday scene 1 - LoLK stage 1
 - Monday scene 2 - LoLK stage 1 boss

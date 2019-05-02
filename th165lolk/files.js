@@ -49,7 +49,7 @@
 	"st06.ecl": null,
 	"st06bs.ecl": null,
 	"st06wl.anm": null,
-	"th165/README.txt": 1573135238,
+	"th165/README.txt": 670905711,
 	"th165/clownpiece.anm": 4179472444,
 	"th165/day02.std": 4205416106,
 	"th165/day03.std": 1344944898,
