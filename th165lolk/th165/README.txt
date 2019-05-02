@@ -23,3 +23,5 @@ Things that are yet to be done:
 - add normal mode version
 
 Not sure when I'll do them.
+
+Music is unchanged because it's not possible to use that many tracks in VD, sorry. You can mute the ingame music and play the correct one on youtube or whatever...
