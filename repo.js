@@ -8,6 +8,7 @@
 		"th12tsuba": "(TH12) Replaces Reimu with Tsubakura from the Len'en project. Features custom dialogues, endings, as well as 2 custom shottypes (.sht modifications).",
 		"th14sanae": "(TH14) Replaces ReimuB with Sanae shot from LoLK (not in menus)",
 		"th15gapping": "(TH15) Makes you wrap around to the other side of the screen when hitting an edge.",
+		"th15garbo": "(TH15) Every shot bullet has a random type and color, which makes everything look like garbo.",
 		"th15sakuya": "(TH15) Replaces Reisen with Sakuya (not in menus)",
 		"th15slippery": "(TH15) Moving on ice.",
 		"th15slipperygapping": "(TH15) Moving on ice + wrap to the other side of the screen when hitting an edge! Allows building up speed for 12 hours!",
