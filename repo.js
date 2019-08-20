@@ -3,6 +3,7 @@
 	"id": "Priw8",
 	"patches": {
 		"0power": "(TH07-TH16) locks player shottype at 0 power, ignoring power items. For masochists.",
+		"DIO": "(TH17) press C to stop time",
 		"LoDDK": "(TH15) A boss rush patch in which you fight bosses from DDC and LoLK at once.",
 		"itemfreeze": "(TH08) all items that would've normally been autocollected now stay in place",
 		"th12tsuba": "(TH12) Replaces Reimu with Tsubakura from the Len'en project. Features custom dialogues, endings, as well as 2 custom shottypes (.sht modifications).",
