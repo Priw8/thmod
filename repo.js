@@ -23,6 +23,7 @@
 		"ultra-fast": "(TH17) an ultra patch that makes everything spawn/fire twice as fast."
 	},
 	"servers": [
+		"https://mirrors.thpatch.net/Priw8/",
 		"https://raw.githubusercontent.com/Priw8/thmod/master/"
 	],
 	"title": "Priw8's mods"

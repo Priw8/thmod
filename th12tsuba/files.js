@@ -1,5 +1,5 @@
 {
-	"patch.js": 1187241029,
+	"patch.js": 2575409637,
 	"th12/_title.anm": null,
 	"th12/bullet.anm": 3515675500,
 	"th12/e00.anm": 3113607812,

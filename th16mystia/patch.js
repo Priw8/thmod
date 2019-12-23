@@ -7,6 +7,7 @@
 	],
 	"id": "th16mystia",
 	"servers": [
+		"https://mirrors.thpatch.net/Priw8/th16mystia/",
 		"https://raw.githubusercontent.com/Priw8/thmod/master/th16mystia/"
 	],
 	"title": "(TH16) Replaces Cirno with Mystia (not in menus yet) (April fools 2019 mod)"

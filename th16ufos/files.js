@@ -1,6 +1,6 @@
 {
-	"README.txt": 370318593,
-	"patch.js": 3038686054,
+	"README.txt": 3501741807,
+	"patch.js": 3314774561,
 	"th16.js": 4029136070,
 	"th16/default.ecl": 2536238807,
 	"th16/enemy.anm": 676433548,
