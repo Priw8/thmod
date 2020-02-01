@@ -6,6 +6,7 @@
 		"DIO": "(TH17) press C to stop time",
 		"LoDDK": "(TH15) A boss rush patch in which you fight bosses from DDC and LoLK at once.",
 		"itemfreeze": "(TH08) all items that would've normally been autocollected now stay in place",
+		"mode26": "(TH17) Sets interpoleration mode to 26 for everything, which breaks a bunch of stuff.",
 		"th12tsuba": "(TH12) Replaces Reimu with Tsubakura from the Len'en project. Features custom dialogues, endings, as well as 2 custom shottypes (.sht modifications).",
 		"th14sanae": "(TH14) Replaces ReimuB with Sanae shot from LoLK (not in menus)",
 		"th15gapping": "(TH15) Makes you wrap around to the other side of the screen when hitting an edge.",
