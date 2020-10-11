@@ -15,6 +15,7 @@
 		"th15slippery": "(TH15) Moving on ice.",
 		"th15slipperygapping": "(TH15) Moving on ice + wrap to the other side of the screen when hitting an edge! Allows building up speed for 12 hours!",
 		"th165lolk": "(TH16.5) Puts stages and bosses from LoLK into VD. Refer to the README.txt file from the repo for more information.",
+		"th16ice": "(TH16) Replaces releases with freeze ability from GFW",
 		"th16mystia": "(TH16) Replaces Cirno with Mystia (not in menus yet) (April fools 2019 mod)",
 		"th16nonprac": "(TH16) Replaces spells in spell practice with nonspells",
 		"th16sanae": "(TH16) Replaces Marisa with Sanae shot from LoLK (not in menus)",
