@@ -23,6 +23,7 @@
 		"th16ufos": "(TH16) read README.txt from the repo for more info",
 		"th17prac": "(TH17) practice patch for WBaWC demo",
 		"th17speen": "(TH17) speedy otter spin",
+		"th18shoplifting": "(TH18) unfixed the shoplifting glitch from the demo",
 		"thanos": "(TH15, 16) Randomly skips ECL instructions (50%), which results in \"corrupted\" patterns and stages.",
 		"ultra-fast": "(TH17) an ultra patch that makes everything spawn/fire twice as fast."
 	},
