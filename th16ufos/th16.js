@@ -1,4 +1,16 @@
 {
+	"codecaves": {
+		"Priw8_th16ufos_ins_999_code": {
+			"code": "6A 00 8B CF E8[Rx251D0] A3 C8 57 4A 00 E9 [Rx22A9B]",
+			"access": "re",
+			"title": "Assembly code of ins_999. Takes 1 argument and sets ECL variable [-9907] ($SPELL_ID) to it (the variable is read-only normally). Used to transfer data from 1 stage to another, as the value doesn't get reset."
+		},
+		"Priw8_th16ufos_ins_998_code": {
+			"code": "A1 F4 57 4A 00 A3 CC 57 4A 00 E9 [Rx22A9B]",
+			"access": "re",
+			"title": "Assembly code of ins_998. Takes no arguments, sets ECL variable [-9704] ($MISS_COUNT_GLOBAL) to player's current lives."
+		}
+	},
 	"binhacks": {
 		"no_score_extends": {
 			"expected": "20A10700",
@@ -26,15 +38,9 @@
 		},
 		"ins_999_jmptable": {
 			"expected": "ADADADAD",
-			"code": "DAAC4800",
+			"code": "<codecave:Priw8_th16ufos_ins_999_code>",
 			"addr": "0x00422D9C",
 			"title": "Define jump adress for ins_999"
-		},
-		"ins_999_code": {
-			"expected": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
-			"code": "6A 00 8B CF E8 ED A4 F9 FF A3 C8 57 4A 00 E9 AE 7D F9 FF",
-			"addr": "0x0048ACDA",
-			"title": "Assembly code of ins_999. Takes 1 argument and sets ECL variable [-9907] ($SPELL_ID) to it (the variable is read-only normally). Used to transfer data from 1 stage to another, as the value doesn't get reset."
 		},
 		"ins_998_byteptr": {
 			"expected": "AD",
@@ -44,15 +50,9 @@
 		},
 		"ins_998_jmptable": {
 			"expected": "ADADADAD",
-			"code": "EDAC4800",
+			"code": "<codecave:Priw8_th16ufos_ins_998_code>",
 			"addr": "0x00422DA0",
 			"title": "Define jump adress for ins_998"
-		},
-		"ins_998_code": {
-			"expected": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
-			"code": "A1 F4 57 4A 00 A3 CC 57 4A 00 E9 9F 7D F9 FF",
-			"addr": "0x0048ACED",
-			"title": "Assembly code of ins_998. Takes no arguments, sets ECL variable [-9704] ($MISS_COUNT_GLOBAL) to player's current lives."
 		},
 		"prac_8_lives": {
 			"expected": "09",

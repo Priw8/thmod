@@ -1,7 +1,7 @@
 {
-	"README.txt": 3501741807,
+	"README.txt": 370318593,
 	"patch.js": 3314774561,
-	"th16.js": 4029136070,
+	"th16.js": 697776442,
 	"th16/default.ecl": 2536238807,
 	"th16/enemy.anm": 676433548,
 	"th16/se_lgods1.wav": 4177994184,

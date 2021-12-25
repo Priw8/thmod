@@ -1,6 +1,7 @@
 {
 	"dependencies": [
-		"nmlgc/base_tsa"
+		"nmlgc/base_tsa",
+		"Priw8/th15slippery"
 	],
 	"id": "th15slipperygapping",
 	"servers": [
